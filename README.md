@@ -10,7 +10,8 @@
 3. [一些 HTML 语法](http://www.w3school.com.cn/html/index.asp)
 4. 编辑器
     - IDE 推荐 [PyCharm](https://www.jetbrains.com/pycharm/)，下载 community 免费版本
-    - 编辑器则随便，python有自带的 idea，但不是很好用。可以用 [visual studio code](https://visualstudio.microsoft.com/zh-hans/downloads/)
+    - 编辑器则随便，python有自带的 idea，但不是很好用。可以用 **[visual studio code](https://visualstudio.microsoft.com/zh-hans/downloads/)**
+      或者 **[sublime](https://www.sublimetext.com/)**(需要翻墙)
 #### 我们将会教
 1. 运用所学的 python 知识，使用 Request 库来写一个网易云音乐爬虫
 2. 使用 Xpath 将获取的 HTML 解析
